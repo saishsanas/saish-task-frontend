@@ -23,6 +23,16 @@ It connects with the SaishTask Spring Boot backend to manage task lists with rea
 
 ---
 
+## 📸 Screenshots
+
+### Homepage
+![SaishTask Homepage](https://github.com/saishsanas/saish-task-frontend/blob/main/homepageSaishTask.png)
+
+### Create Task List UI
+![Create TaskList](https://github.com/saishsanas/saish-task-frontend/blob/main/create-tasklist.png)
+
+---
+
 ##  Setup Instructions
 
 ```bash
